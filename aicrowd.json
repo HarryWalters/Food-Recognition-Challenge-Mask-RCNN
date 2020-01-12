@@ -1,7 +1,7 @@
 {
     "challenge_id" : "aicrowd-food-recognition-challenge",
     "grader_id": "aicrowd-food-recognition-challenge",
-    "authors" : ["nikhil13prs"],
+    "authors" : ["HarryWalters"],
     "description" : "Food Recognition Challenge Submission",
     "license" : "MIT",
     "gpu": true
