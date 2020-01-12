@@ -8,7 +8,7 @@ See `requirements.txt`
 * Keras 2.0
 
 # Results
-After finetuning the heads, this model acheived an Average Precision of 0.188 & an Average Recall of 0.243
+After finetuning the heads, this model acheived an Average Precision of 0.188 & an Average Recall of 0.243.
 While enough to place my model in the top 6 internationally, I decided to explore other learning methods and models in later work.
 
 ---
