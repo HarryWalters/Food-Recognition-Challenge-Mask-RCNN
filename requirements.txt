@@ -19,7 +19,7 @@ pyparsing==2.2.0
 python-dateutil==2.7.2
 pytz==2018.3
 PyWavelets==0.5.2
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.1.13
 scikit-image==0.13.1
 scipy==1.0.1
